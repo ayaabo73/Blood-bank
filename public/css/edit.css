@@ -1,0 +1,107 @@
+
+body{
+ 
+    background-color : #FFf;
+     height: 43vh;
+     display: flex;
+     margin-top: 8px;
+     font-family: cursive;
+    
+    
+    }
+    
+    .topbar{
+    
+    background-image: url(/images/w.jpg);
+    background-position: center;
+    background-size: cover; 
+    margin-left: 200px;
+    width: 990px;
+    height: 550px;
+    background: radial-gradient( rgba(255,255,255,0.6)); 
+    box-shadow: 0 0 3px  rgba(0,0,0,0.6);
+    border-radius: 20px;
+    backdrop-filter: blur(3px);
+    
+    }
+     a{
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 80px;
+    padding: 6px 6px;
+    color: #000;
+    background-color: #ecdede;
+    font-family: cursive;
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    
+    
+    
+    }
+    a:hover{
+    background-color:#f5a9a9;
+    }
+   
+        button{
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 18px;
+            margin-left: 80px;
+            padding: 10px 28px;
+            color: #fff;
+            background-color: #e75050;
+            font-family: cursive;
+            border: 0;
+            outline: 0;
+            border-radius: 10px;
+            
+            
+            
+            }
+            button:hover{
+            background-color:#f5a9a9;
+            }
+            input{
+                width:250px;
+                height:22px;
+                background-color:#fdfdfd;
+                 border-radius: 4px;
+                 box-shadow: 0 0 3px  rgba(0,0,0,0.6);
+                 
+                 margin-left: 300px;
+                 
+                 margin-top: -20;
+                 
+                 
+                }
+          select{width:260px;
+            height:28px;
+            background-color:#fdfdfd;
+             border-radius: 4px;
+             box-shadow: 0 0 3px  rgba(0,0,0,0.6);
+             font-size: 18px;
+             margin-left: 300px;
+         margin-top: -20;
+         
+             
+            } 
+            form{
+                padding-right: 4px;
+                 margin-right: 15px;
+                  font-size: 29px;
+                text-decoration:right;
+                   text-align: right;
+                   font-family: cursive;
+                   
+                
+            }
+            form h4{
+                padding-right: 4px;
+                 margin-right: 15px;
+                font-size: 32px;
+                text-decoration:right;
+                text-align: right;
+        
+            }
